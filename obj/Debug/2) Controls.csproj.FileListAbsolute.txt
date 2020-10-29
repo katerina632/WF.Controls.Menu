@@ -1,0 +1,9 @@
+F:\ITStep\2 курс\WF\CW\2) Controls\bin\Debug\2) Controls.exe.config
+F:\ITStep\2 курс\WF\CW\2) Controls\bin\Debug\2) Controls.exe
+F:\ITStep\2 курс\WF\CW\2) Controls\bin\Debug\2) Controls.pdb
+F:\ITStep\2 курс\WF\CW\2) Controls\obj\Debug\2) Controls.csprojAssemblyReference.cache
+F:\ITStep\2 курс\WF\CW\2) Controls\obj\Debug\_2__Controls.Form1.resources
+F:\ITStep\2 курс\WF\CW\2) Controls\obj\Debug\_2__Controls.Properties.Resources.resources
+F:\ITStep\2 курс\WF\CW\2) Controls\obj\Debug\2) Controls.csproj.GenerateResource.cache
+F:\ITStep\2 курс\WF\CW\2) Controls\obj\Debug\2) Controls.exe
+F:\ITStep\2 курс\WF\CW\2) Controls\obj\Debug\2) Controls.pdb
